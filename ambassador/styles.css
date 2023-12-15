@@ -1,0 +1,53 @@
+html{
+  background-color: black;
+}
+.w3-hover-red:hover{
+background:balck;
+}
+
+
+.w3-white, .w3-hover-black:hover{
+  color: #fff;
+  background-color: black;
+ 
+}
+
+.w3-red, .w3-hover-red:hover {
+    color: #fff !important;
+    background-color: black !important;
+}
+
+.w3-blue-grey, .w3-hover-blue-grey:hover, .w3-blue-gray, .w3-hover-blue-gray:hover {
+    color: #fff !important;
+    background-color: black !important;
+  }
+
+  .Container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #333;
+  }
+  h1{
+    color: white;
+    margin-bottom: 60px;
+  }
+
+    iframe{
+    width:80%
+    height 500px ;
+    filter:invert(100%);
+  }
+
+
+  .w3-white, .w3-hover-white:hover{
+    color: #fff;
+   
+  }
+
+  .box b{
+    align: center;
+  }
